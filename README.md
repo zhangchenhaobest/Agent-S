@@ -1,3 +1,29 @@
+# Agent-S
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Agent S: the state-of-the-art open source computer use agents
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+先进的开源计算机操作智能体 Agent S。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <h1 align="center">
   <img src="images/agent_s.png" alt="Logo" style="vertical-align:middle" width="60"> Agent S:
   <small>Open Computer Use</small>
